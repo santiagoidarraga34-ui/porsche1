@@ -1,0 +1,9 @@
+{
+  "name": "Porsche Exclusive Experience",
+  "description": "A premium, multimodal digital experience for Porsche enthusiasts. Explore, configure, and connect with the world of Porsche luxury and performance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
